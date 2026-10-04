@@ -15,6 +15,7 @@ transparency matters to me, which is why I'm upfront about it here.
 | Project | What it does |
 |---|---|
 | [energy-node](https://github.com/Developer-Simon/energy-node) | Energy monitoring and automation for a remote site. Runs on a Raspberry Pi 1, with or without Home Assistant. |
+| [ha-energy-node-companion](https://github.com/Developer-Simon/ha-energy-node-companion) | Home Assistant companion for energy-node. Fills the dashboard's history gaps from the recorder and opens the dashboard in the Home Assistant sidebar. |
 | [ha-battery-soc](https://github.com/Developer-Simon/ha-battery-soc) | Home Assistant integration that estimates the state of charge of LiFePO4 banks from power and voltage sensors you already have. |
 | [ha-energy-node-icons](https://github.com/Developer-Simon/ha-energy-node-icons) | Icon set for Home Assistant with the energy device symbols from the energy-node dashboard. |
 | [finance-mosaix](https://github.com/Developer-Simon/finance-mosaix) | Personal finance app on DuckDB: import transaction sheets, track cash flow and assets in a Streamlit dashboard. |
